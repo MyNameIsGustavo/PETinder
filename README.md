@@ -3,7 +3,7 @@
   <img width = 700hr src="https://user-images.githubusercontent.com/79478498/187548456-79bc6d60-29be-40d2-92ae-ac80daf57be3.png">
 </div>
 
-<h2>PE-Tinter</h2> 
+<h2 align="center">PE-Tinter</h2> 
 
 
 ### Membros
