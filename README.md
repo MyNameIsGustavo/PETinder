@@ -38,6 +38,6 @@ Já no Brasil, este mercado fatura anualmente aproximadamente mais de R$ 35 bilh
 - CSS;
 - Angular;
 - TypeScript;
+- Node JS;
 - MySQL;
 - Figma.
-
