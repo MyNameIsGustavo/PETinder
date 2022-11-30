@@ -6,7 +6,7 @@
 <h2 align="center">PETinder</h2> 
 
 
-### Membros
+### Membros.
 - Carlos Eduardo Marquetti Correa da Silva, 0030482121014
 - Gustavo Rocha Maia, 0030482121034
 - Nataly Rocha Da Costa, 0030482121011 
