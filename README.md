@@ -15,7 +15,7 @@
 ### Apresentação.
 
 <p>O projeto PETinter  surgiu da necessidade de desenvolver uma maneira eficiente, prática e ágil para a administração de Petshops e todos os elementos que envolvem o ecossistema deste mercado. No mundo todo, o mercado pet movimentou mais de US $223,5 bilhões segundo as pesquisas da Global Pet Market de 2021. 
-Já no Brasil, este mercado fatura anualmente aproximadamente mais de R$ 35 bilhões e continua crescendo rapidamente.</p>
+Já no Brasil, este mercado fatura anualmente aproximadamente mais de R$35 bilhões e continua crescendo rapidamente.</p>
 
 <p>Entretanto, grande parte desses empreendedores atuam de forma informal, ou seja, tudo é feito manualmente e por conta disso, gera-se muito prejuízo com despesas  </p>
 
