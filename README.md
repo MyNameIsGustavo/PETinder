@@ -19,7 +19,7 @@ Já no Brasil, este mercado fatura anualmente aproximadamente mais de R$ 35 bilh
 
 <p>Entretanto, grande parte desses empreendedores atuam de forma informal, ou seja, tudo é feito manualmente e por conta disso, gera-se muito prejuízo com despesas  </p>
 
-<p>Buscando atender a demanda deste mercado, desenvolveremos uma aplicação WEB que envolverá os aspectos necessários para a organização de um petshop, como por exemplo: cadastramento de pets, serviços prestados, controle de serviços por calendaário, administração acessórios e produtos. Portanto, será desenvolvido tudo que é necessário para um sistema de gerenciador de petshop online.</p>
+<p>Buscando atender a demanda deste mercado, desenvolveremos uma aplicação WEB que envolverá os aspectos necessários para a organização de um petshop, como por exemplo: cadastramento de pets, serviços prestados, controle de serviços por calendaário, administração de acessórios e produtos. Portanto, será desenvolvido tudo que é necessário para um sistema de gerenciador de petshop online.</p>
 
 <p>A decisão de ser uma aplicação WEB se fez necessária para atingir o maior número de petshops possíveis. Dessa forma, tornando-se uma aplicação escalável desde o seu surgimento. Além disso, o projeto contará com um serviço de hospedagem próprio para demonstração do produto.</p>
 
